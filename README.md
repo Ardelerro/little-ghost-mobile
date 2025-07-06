@@ -24,8 +24,8 @@ A Flutter-based mobile app that allows users to control home appliances and set 
 ### Install
 
 ```bash
-git clone https://github.com/your-username/home-automation-app.git
-cd home-automation-app
+git clone https://github.com/Ardelerro/little-ghost-mobile.git
+cd little-ghost-mobile
 flutter pub get
 ```
 
